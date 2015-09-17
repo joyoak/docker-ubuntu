@@ -4,4 +4,4 @@ MAINTAINER joyoak "joyoak@163.com"
 
 EXPOSE 22
 
-#docker build -t="joyoak/centos:base" git@github.com:joyoak/docker/docker-ubuntu
+#docker build -t="joyoak/ubuntu:base" git@github.com:joyoak/docker-ubuntu
