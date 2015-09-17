@@ -1,5 +1,5 @@
 #version 0.0.1
-FROM ubuntu:latest
+FROM ubuntu
 MAINTAINER joyoak "joyoak@163.com"
 
 EXPOSE 22
